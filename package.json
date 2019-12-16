@@ -3,10 +3,10 @@
   "author": "Filipe Herculano <fifo_@live.com>",
   "publisher": "this-fifo",
   "license": "MIT",
-  "logo": "logo.png",
+  "icon": "icon.png",
   "displayName": "ｖａｐｏｒｗａｖｅ",
   "description": "ＡＥＳＴＨＥＴＩＣＳ ( ⧉ ⦣ ⧉ )",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.41.0"
   },
