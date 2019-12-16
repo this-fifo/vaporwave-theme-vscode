@@ -6,16 +6,14 @@
 
 ---
 
-## ( ⧉ ⦣ ⧉ )
-
-<p align="left">
-  <img alt="L O G O" src="logo.png" width="15%">
-</p>
-
----
-
 <p align="center">
   <img alt="preview" src="preview.png" width="90%">
+</p>
+
+## ( ⧉ ⦣ ⧉ )
+
+<p align="center">
+  <img alt="L O G O" src="logo.png" width="15%">
 </p>
 
 ## Installation
