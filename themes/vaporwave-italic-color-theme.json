@@ -208,18 +208,17 @@
     },
     {
       "name": "Operators",
-      "scope": "keyword.operator",
-      "settings": { "foreground": "#BBBBBB" }
+      "scope": [
+        "keyword.operator",
+        "keyword.operator.expression",
+        "keyword.operator.logical"
+      ],
+      "settings": { "foreground": "#EEFFFFE6", "fontStyle": "" }
     },
     {
       "name": "Special operators",
-      "scope": [
-        "keyword.operator.new",
-        "keyword.operator.expression",
-        "keyword.operator.logical",
-        "keyword.operator.delete"
-      ],
-      "settings": { "foreground": "#EEFFFFE6" }
+      "scope": ["keyword.operator.new", "keyword.operator.delete"],
+      "settings": { "foreground": "#EEFFFFE6", "fontStyle": "italic" }
     },
     {
       "name": "Units",
@@ -287,7 +286,7 @@
       "settings": { "foreground": "#09F7A0F1" }
     },
     {
-      "name": "Provieded variables",
+      "name": "Provided variables",
       "scope": "support.variable",
       "settings": { "foreground": "#94D0FF" }
     },
