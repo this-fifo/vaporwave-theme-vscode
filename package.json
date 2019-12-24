@@ -6,7 +6,7 @@
   "icon": "icon.png",
   "displayName": "ｖａｐｏｒｗａｖｅ",
   "description": "ＡＥＳＴＨＥＴＩＣＳ ( ⧉ ⦣ ⧉ )",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.41.0"
   },
@@ -42,7 +42,7 @@
     "type": "git",
     "url": "https://github.com/this-fifo/vaporwave-theme-vscode"
   },
-  "homepage": "https://github.com/this-fifo/vaporwave-theme-vscode",
+  "homepage": "https://vaporwave-theme.netlify.com/",
   "bugs": {
     "url": "https://github.com/this-fifo/vaporwave-theme-vscode/issues"
   }
