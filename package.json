@@ -6,7 +6,7 @@
   "icon": "icon.png",
   "displayName": "ｖａｐｏｒｗａｖｅ",
   "description": "ＡＥＳＴＨＥＴＩＣＳ ( ⧉ ⦣ ⧉ )",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.41.0"
   },
@@ -35,6 +35,11 @@
         "label": "ｖａｐｏｒｗａｖｅ *bold*",
         "uiTheme": "vs-dark",
         "path": "./themes/vaporwave-bold-color-theme.json"
+      },
+      {
+        "label": "ｖａｐｏｒｗａｖｅ |bordered|",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vaporwave-bordered-color-theme.json"
       }
     ]
   },
